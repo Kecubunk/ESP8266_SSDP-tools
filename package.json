@@ -1,0 +1,24 @@
+{
+  "name": "esp8266_ssdp",
+  "version": "1.0.0",
+  "description": "ESP8266_SSDP Discovery tools",
+  "main": "esp.js",
+  "dependencies": {
+    "peer-ssdp": "^0.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "kecubunk"
+  },
+  "keywords": [
+    "ESP8266",
+    "SSDP",
+    "Discovery"
+  ],
+  "author": "Cahyo Hertanto",
+  "license": "ISC"
+}
